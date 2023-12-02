@@ -1,6 +1,6 @@
 // This simple program  places a pixel in the center of the 0.96" oled display module, and
 // then allows the user to move the pixel around using the joystick module. :)
-// if u want the pixel to have a cute tail that shows where its been, comment line 37 :D
+// if u want the pixel to have a cute tail that shows where its been, comment line 36:D
 // - Tomi :)
 
 // SETUP FOR DISPLAY
